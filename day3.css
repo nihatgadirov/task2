@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+header{
+    display: flex ;
+    
+   
+}
+#mavi-sol{
+    width: 40px;
+}
+#scr{ position: absolute;
+    left: 300px;
+    width: 150px;
+
+}
+h1{
+    position: absolute;
+    left: 250px;
+}
+h2{
+    position: absolute;
+    left: 250px;
+    top: 60px;
+    
+}
+.info{
+    position: absolute;
+    right: 300px;
+    top: 400px;
+    color: white;
+}
+#mavi-sag{
+    position: absolute;
+    width: 40px;
+    right: 100px;
+    top:400px;
+}
